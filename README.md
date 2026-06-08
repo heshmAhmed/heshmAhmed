@@ -3,9 +3,9 @@
 **Software Engineer | Java & Node.js | Backend & Cloud**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hesham--ahmed)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/heshmahmed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/heshm/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Heshm)
 
 Software Engineer with a strong interest in Java, Node.js, and problem-solving. Passionate about exploring and mastering multiple technologies and seeking an opportunity to leverage my skills to drive company growth while continuously expanding my expertise.
 
@@ -66,13 +66,6 @@ Built an **Information Retrieval (IR) system** in Python that processes multiple
 
 ### Sudoku-Solver *(2019)*
 Developed a **C# desktop application** using multithreading to solve Sudoku puzzles, generating multiple solutions for a single grid in under 3 milliseconds each.
-
----
-
-## 📈 GitHub Stats
-
-![Hesham's GitHub stats](https://github-readme-stats.vercel.app/api?username=heshmAhmed&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshmAhmed&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
