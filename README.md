@@ -36,14 +36,6 @@ Java, Spring Boot, Angular, Docker, OpenShift, PostgreSQL
 **Cloud & DevOps:** AWS (SQS, EC2, S3), Docker, Kubernetes, OpenShift, Redis, Git, Maven
 
 **Web:** RESTful APIs, WebSockets, SSE
-
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=heshmAhmed&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshmAhmed&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 📫 **Email:** heshamahmed22226.ha@gmail.com
