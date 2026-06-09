@@ -36,6 +36,7 @@ Java, Spring Boot, Angular, Docker, OpenShift, PostgreSQL
 **Cloud & DevOps:** AWS (SQS, EC2, S3), Docker, Kubernetes, OpenShift, Redis, Git, Maven
 
 **Web:** RESTful APIs, WebSockets, SSE
+
 ---
 
 📫 **Email:** heshamahmed22226.ha@gmail.com
