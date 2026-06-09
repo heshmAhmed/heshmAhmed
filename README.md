@@ -15,8 +15,7 @@ Backend engineer with experience in **Java (Spring Boot)** and **Node.js** acros
 
 - **System Design** — scalability, distributed systems, microservices
 - **Node.js** — advanced patterns, performance optimization
-- **Java** — concurrency, JVM internals, reactive programming
-
+- **Java**
 ---
 
 ## 💼 Experience
